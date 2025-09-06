@@ -45,7 +45,7 @@
 <h1>🍪 Fortune Cookie Generator 🍪</h1>
 
 <div class="cookie-container">
-  <img src="https://i.postimg.cc/XY4cW1wR/fortune-cookie.png" id="cookie" alt="Fortune Cookie">
+  <img src="file:///C:/Users/MADHUYUGA/Downloads/picture%202" id="cookie" alt="Fortune Cookie">
   <p id="fortune">Click the cookie to reveal your fortune!</p>
 </div>
 
